@@ -1,0 +1,15 @@
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.AssemblyInfoInputs.cache
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.AssemblyInfo.cs
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.csproj.CoreCompileInputs.cache
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.sourcelink.json
+C:\Users\hekmt\Desktop\OOP-Collage\bin\Debug\net8.0\OOP-Collage.exe
+C:\Users\hekmt\Desktop\OOP-Collage\bin\Debug\net8.0\OOP-Collage.deps.json
+C:\Users\hekmt\Desktop\OOP-Collage\bin\Debug\net8.0\OOP-Collage.runtimeconfig.json
+C:\Users\hekmt\Desktop\OOP-Collage\bin\Debug\net8.0\OOP-Collage.dll
+C:\Users\hekmt\Desktop\OOP-Collage\bin\Debug\net8.0\OOP-Collage.pdb
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.dll
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\refint\OOP-Collage.dll
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.pdb
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\OOP-Collage.genruntimeconfig.cache
+C:\Users\hekmt\Desktop\OOP-Collage\obj\Debug\net8.0\ref\OOP-Collage.dll
