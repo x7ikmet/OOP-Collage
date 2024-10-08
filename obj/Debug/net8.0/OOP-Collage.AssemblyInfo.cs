@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP-Collage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec49df136d9c33626819207c128ebc52d6bca9ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d69031d8a6910a43da8a41befcd55011c73a1165")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP-Collage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP-Collage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

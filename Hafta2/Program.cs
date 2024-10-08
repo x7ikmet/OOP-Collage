@@ -1,7 +1,6 @@
 
-using System.Runtime.InteropServices;
-
-namespace OOP.Hafta2{
+namespace OOP.Hafta2
+{
 
     public ref struct Point{
         public int X {get; set;}

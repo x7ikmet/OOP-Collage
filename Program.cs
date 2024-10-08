@@ -1,16 +1,17 @@
-﻿namespace OOP;
+﻿namespace OOP{
 
-using Hafta1;
-using Hafta2;
+    // using Hafta1;
+    using Hafta2;
 
-internal class Program{
-    public static void Main()
-    {
-        Hafta1.Program hafta1 = new Hafta1.Program();
-        hafta1.Type();
-
-        Console.ReadLine();
-        Console.Clear();
+    internal class Program{
+        public static void Main()
+        {
+            
+            Point point1 = new Point(3,4);
+            Point point2 = new Point(6,8);
+            double dis = point1.DistanceTo(point2);
+            Console.WriteLine($"value: {dis}");
+        }
     }
-}
 
+}
