@@ -5,3 +5,21 @@
 - Parse method
 - Convert method
 - struct
+    ref struct
+- Enum
+    - isDefined method
+
+- Kontrol yapilari
+    - type pattern
+        check type (if a is string)
+    - constant pattern
+        check value (if a is 5)
+    - var pattern
+        if(x is var a)
+        * Everything is var!
+    - pattern matching
+        switch(deger){
+            case int a when a<=0:
+        }
+
+- string interpolaion: $
