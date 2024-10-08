@@ -1,0 +1,7 @@
+* if (a is int) in c# we have "is"
+* adress in stak and var in heap
+* we have Max Value error when crossing the limit of var bites
+
+- Parse method
+- Convert method
+- struct

@@ -1,6 +1,7 @@
 ﻿namespace OOP;
 
 using Hafta1;
+using Hafta2;
 
 internal class Program{
     public static void Main()
