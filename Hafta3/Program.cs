@@ -1,3 +1,5 @@
+using System.Collections;
+
 namespace OOP.Hafta3
 {
     
@@ -69,6 +71,18 @@ namespace OOP.Hafta3
                 }
                 Console.WriteLine();
             }
+        }
+
+        public void insertArr(){
+            ArrayList array = new ArrayList();
+            array.Add("Hikmet");
+            array.Add("Ahmet");
+            array.Add("Ali");
+            array.Insert(0, "Test");
+            array.Sort();
+            foreach (var item in array ){
+                Console.WriteLine(item);
+            };
         }
 
     }

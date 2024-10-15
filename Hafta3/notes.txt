@@ -24,4 +24,9 @@
         Copy(Array sourceArray, long sourceIndex, Array destinationArray, long destinationIndex, long length)
 
 - Koleksiyonlar (Collections)
-
+    - Non-generic
+        - ArrayList (LIFO)
+            * ArrayList stores objects of any type like an array, using boxing and unboxing.
+            * ArrayList a = new ArrayList();
+            * Add method
+            * insert method: arr.Insert(0,"value")
