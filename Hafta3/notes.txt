@@ -25,8 +25,52 @@
 
 - Koleksiyonlar (Collections)
     - Non-generic
-        - ArrayList (LIFO)
+        * non-generic collections are collections that can store elements of any data type
+        - ArrayList 
             * ArrayList stores objects of any type like an array, using boxing and unboxing.
             * ArrayList a = new ArrayList();
+            * Count method
             * Add method
             * insert method: arr.Insert(0,"value")
+            * Remove method
+            * RemoveAt method
+            * Clear method
+            * Reverse method
+            // no need for this shit
+            * Capacity method
+            * GetRange method
+            * AddRange method
+            * InsertRange method
+            * RemoveRange method
+        
+        - Hashtable 
+            * Hashtable stores key and value pairs.
+            * a.Add("key","value");
+            * a.Remove("key");
+            * a[index] = ("value");
+        
+        - SortedList
+
+    - Generic
+        * Hold elements of same datatypes.
+        
+        - List 
+            * List<Type> arr = new List<Type>();
+        
+        - Stack
+            * Stores the values as LIFO
+            * Push method
+            * ElementAt method
+            * Peek method
+            * Pop method
+        
+        - Queue (FIFO)
+            * Enqueue method
+            * AddLast method
+        
+        - LinkedList
+            * Find method
+
+        - Dictionary
+            * stores key and value pairs
+            * Dictionary<string, string> aa = new Dictionary<string, string>();
