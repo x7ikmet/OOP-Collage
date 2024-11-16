@@ -1,0 +1,14 @@
+- Hatalar bulmak ve kontrol etmek
+    - try,
+    - catch, 
+    - final, 
+    - Exception ex, 
+    - Throw
+
+- Methods (metodlar)
+    - params : list of Button obj
+    - Ienumarable   
+    - Tuple 
+        - var bilgiler new Tuple<int, string , DateTime>(1, "Volkan", DateTime.Now); 
+        - var bilgiler Tuple.Create<int, string, DateTime>(1, "Volkan", DateTime.Now);
+        
