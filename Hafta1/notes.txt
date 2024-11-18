@@ -1,5 +1,18 @@
 - ref string
+
 - boxing and unboxing
+    int num = 23; 
+    Object obj = num; //boxing
+    int i = (int)obj; //unboxing
+
 - GetType & Typeof
+    obj.GetType(), typeof(obj)
+
 - implicit conversion
+    Convert.toIn16();
+    int.Parse(Text);
+
 - explicit conversion
+    double num = 10;
+    int num2 = (int)num;
+
