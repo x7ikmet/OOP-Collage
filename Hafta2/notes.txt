@@ -4,19 +4,29 @@
 
 - Parse method
 - Convert method
+
 - struct
     ref struct
+        - Can only be stored on the stack, not the heap 
+        - Cannot be used as a field in a class
+        - Cannot be boxed
+
+
 - Enum
     - isDefined method
+        num.IsDefined(typeof(Colors), Colors.Red);
 
 - Kontrol yapilari
     - type pattern
-        check type (if a is string)
+        check type (if a is string aa)
+
     - constant pattern
-        check value (if a is 5)
+        check value (if a is 5 aa)
+    
     - var pattern
         if(x is var a)
         * Everything is var!
+    
     - pattern matching
         switch(deger){
             case int a when a<=0:
