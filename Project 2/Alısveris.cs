@@ -10,6 +10,7 @@ namespace Project2.Alısveris
         
         public static void Run(){
             var categoreis = new Dictionary<string,List<string>>();
+            
             AddCategory(categoreis, "Elektronik");
             AddCategory(categoreis, "Giyim");
 

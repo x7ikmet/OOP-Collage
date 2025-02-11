@@ -7,8 +7,9 @@
 
 - Methods (metodlar)
     - params : list of Button obj
-    - Ienumarable   
+        public void AddButtons(params Button[] buttons)
+    - Ienumarable
     - Tuple 
-        - var bilgiler new Tuple<int, string , DateTime>(1, "Volkan", DateTime.Now); 
-        - var bilgiler Tuple.Create<int, string, DateTime>(1, "Volkan", DateTime.Now);
+        - var bilgiler = new Tuple<int, string , DateTime>(1, "Volkan", DateTime.Now); 
+        - var bilgiler = Tuple.Create<int, string, DateTime>(1, "Volkan", DateTime.Now);
         

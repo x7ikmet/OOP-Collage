@@ -1,0 +1,5 @@
+Dosya Ve Klasor Islemleri
+- System.IO
+    - Create(Dosya isimi, Int32,FileOptions, FileSecurity)
+- IsoletedStorage
+- System.Text.Json

@@ -31,6 +31,7 @@ namespace Project2{
                 Console.WriteLine("Kitap bulunmadi.");
             }
         }
+        
         static void BooksOfAuthor(Hashtable books, string author){
             Console.WriteLine($"List of books for {author}");
             foreach(DictionaryEntry book in books){

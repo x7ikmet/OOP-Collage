@@ -1,0 +1,16 @@
+- Encapsulation (kapsulleme)
+    public 
+    private
+    protected
+    internal 
+    protected internal
+
+- constructor (yapici metot)
+- destructor (yakici metot)
+- static Fonksiyonlar
+    You can call a static method on the class itself without creating an object of the class.
+- static degiskenler
+- static class
+    can only contain static members (methods, fields, properties, etc.).
+    cannot instantiate a static class.
+- getters and setters

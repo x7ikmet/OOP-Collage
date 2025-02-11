@@ -18,7 +18,8 @@
         }
     
     - array Resize
-        Array.Resize(ref dizi, )
+        int[] numbers = { 1, 2, 3 };
+        Array.Resize(ref numbers, 5);
 
     - array Copy
         Copy(Array sourceArray, long sourceIndex, Array destinationArray, long destinationIndex, long length)

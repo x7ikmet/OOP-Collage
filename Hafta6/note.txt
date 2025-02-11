@@ -1,0 +1,31 @@
+C# 7.0
+
+- ref return
+- ref T
+- in parameters (readonly)
+- ref readonly
+- Kontrollere Metot Baglamak (+=)
+- Ienumarable<T> fun<T>(T[] arr) 
+    implements IEnumerable so that it can be used with ForEach syntax.
+
+Delegates 
+    
+- Lambda expressions
+    - (a,b) => a+b
+- Genisletme metodlar (extension  methods)
+    - Extension methods enable you to "add" methods to existing types without creating a new derived type 
+    - public static int ToInt32(this int a){
+        return Convert.ToInt32(a);
+    }
+
+- Class Yapisi
+    - getters and setters
+    - constracter, destracter
+    - properties
+        - get, set
+
+- Inheritance (Kalitim)
+- Encapsulation (kapsulleme)
+- Polymorphism (cok bicimlilik) 
+- Overriding
+- Interface
